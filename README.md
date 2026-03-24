@@ -8,7 +8,7 @@ I like building useful projects and improving my skills as a developer.
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasparpirs&layout=compact&theme=tokyonight)
 
 ## About Me
 
