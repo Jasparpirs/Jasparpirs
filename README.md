@@ -1,43 +1,23 @@
 # ☾ PROJECT_NAME
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=booting+project...;loading+secure+modules...;admin+access+enabled;dark+purple+system+online" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=booting+system...;loading+modules...;jaspar+pirs+online;admin+access+ready" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/project-name?style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/forks/yourusername/project-name?style=for-the-badge&color=9333EA" />
-  <img src="https://img.shields.io/github/license/yourusername/project-name?style=for-the-badge&color=A855F7" />
-  <img src="https://img.shields.io/badge/status-online-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/name-Jaspar%20Pirs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/school-HKHK_IT24-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/age-17-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-active-6D28D9?style=for-the-badge" />
 </p>
 
 ---
 
-## `> system.info`
-
-A modern dark-themed project built with a **clean structure**, **secure logic** and **minimal cyber style**.  
-Focused on performance, protected routes and smooth developer workflow.
-
----
-
-## `> core.features`
-
-- 🔐 Admin authentication
-- 👑 Protected admin routes
-- ⚡ Fast and optimized
-- 🧩 Clean architecture
-- 🌙 Dark purple aesthetic
-- 📱 Responsive layout
-- 🛡️ Secure backend logic
-- 🚀 Easy deployment
-
----
-
-## `> tech.stack`
+## `> whoami`
 
 ```bash
-frontend   -> React / HTML / CSS
-backend    -> Node.js / Express
-database   -> MongoDB / MySQL
-auth       -> JWT / Session
-deploy     -> Vercel / Render / Railway
+name     -> Jaspar Pirs
+role     -> student developer
+school   -> HKHK (IT24)
+age      -> 17
+focus    -> web dev / backend / security basics
