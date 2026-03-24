@@ -1,42 +1,29 @@
-# Jaspar Pirs
+# Hi, I'm Jaspar Pirs
 
-<p align="center">
-  <b style="font-size:28px;">LARP OR BE LARPPED</b>
-</p>
+**HKHK IT24 student**  
+**17 years old**  
+**Proud owner of Ascend Utility**
 
-<p align="center">
-  <img src="giphy.gif" width="320" alt="Larp vibe gif" />
-</p>
+I like building useful projects and improving my skills as a developer.
 
-<p align="center">
-  IT student • HKHK IT24 • 17
-</p>
+## Most Used Languages
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-## About me
+## About Me
 
-Hi, I’m Jaspar Pirs.
+- HKHK IT24 student
+- 17 years old
+- Building **Ascend Utility**
+- Interested in software and technology
 
-I’m an IT student at HKHK and I’m interested in different areas of technology, not just web development.  
-I like learning new things, building projects and understanding how systems work.
+## Projects
 
-Also into LARPing.
+- **Ascend Utility**
+- Personal projects
+- Experiments and tools
 
----
+## Contact
 
-## What I’m doing
+- GitHub: https://github.com/YOUR_USERNAME
 
-- Studying IT (HKHK IT24)  
-- Learning different areas of development  
-- Working on small projects  
-- Improving problem-solving skills  
-
----
-
-## Example: admin check
-
-```js
-const isAdmin = (user) => {
-  return user && user.role === "admin";
-};
