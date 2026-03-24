@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F2C,100:1E90FF&height=250&section=header&text=PROJECT_NAME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F2C,100:1E90FF&height=250&section=header&text=Israel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
