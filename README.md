@@ -1,7 +1,7 @@
 # ☾ Jaspar Pirs // DARK CORE
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=booting+dark-core...;initializing+secure+modules...;HKHK+IT24+online;admin+access+granted;system+ready" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6D28D9&center=true&vCenter=true&width=700&lines=booting+system...;loading+modules...;HKHK+IT24+online;admin+access+granted;dark+core+ready" />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/name-Jaspar%20Pirs-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/role-student_dev-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/school-HKHK_IT24-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/school-HKHK_IT24-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/age-17-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/status-learning-A78BFA?style=for-the-badge" />
 </p>
 
@@ -24,5 +24,4 @@ name     -> Jaspar Pirs
 role     -> student developer
 school   -> HKHK (IT24)
 age      -> 17
-focus    -> backend / auth / web dev
-status   -> learning & building
+focus    -> backend / web dev / auth systems
