@@ -1,47 +1,42 @@
 # Jaspar Pirs
 
 <p align="center">
+  <b style="font-size:28px;">LARP OR BE LARPPED</b>
+</p>
+
+<p align="center">
   <img src="giphy.gif" width="320" alt="Larp vibe gif" />
 </p>
 
 <p align="center">
-  <b>Student developer</b><br>
-  HKHK IT24 • 17 years old
+  IT student • HKHK IT24 • 17
 </p>
 
 ---
 
 ## About me
 
-Hi, I’m Jaspar Pirs.  
-I’m an IT student at HKHK and I’m learning web development, backend systems, and authentication.
+Hi, I’m Jaspar Pirs.
 
-I like building projects that are simple, clean, and functional.
+I’m an IT student at HKHK and I’m interested in different areas of technology, not just web development.  
+I like learning new things, building projects and understanding how systems work.
 
----
-
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
-</p>
+Also into LARPing.
 
 ---
 
-## GitHub stats
+## What I’m doing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" height="160" />
-</p>
+- Studying IT (HKHK IT24)  
+- Learning different areas of development  
+- Working on small projects  
+- Improving problem-solving skills  
 
 ---
 
-## Skills
+## Example: admin check
 
-```txt
-JavaScript      ███████░░░
-HTML/CSS        ████████░░
-Node.js         ██████░░░░
-Backend logic   ██████░░░░
-Authentication  █████░░░░░
+```js
+const isAdmin = (user) => {
+  return user && user.role === "admin";
+};
