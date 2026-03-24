@@ -1,7 +1,7 @@
 # ⚡ PROJECT_NAME // CYBER SYSTEM
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initializing+System...;Loading+Security+Protocols...;Admin+Access+Granted;Welcome+to+PROJECT_NAME" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Initializing+System...;Loading+Security+Protocols...;Admin+Access+Granted;Welcome+to+Israel" />
 </p>
 
 <p align="center">
