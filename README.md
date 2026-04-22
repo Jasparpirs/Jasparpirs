@@ -2,7 +2,6 @@
 
 **HKHK IT24 student**  
 **17 years old**  
-**Proud owner of Ascend Utility**
 
 I like building useful projects and improving my skills as a developer.
 
