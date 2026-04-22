@@ -14,12 +14,10 @@ I like building useful projects and improving my skills as a developer.
 
 - HKHK IT24 student
 - 17 years old
-- Building **Ascend Utility**
 - Interested in software and technology
 
 ## Projects
 
-- **Ascend Utility**
 - Personal projects
 - Experiments and tools
 
