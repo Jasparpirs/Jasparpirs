@@ -1,7 +1,7 @@
 # Hi, I'm Jaspar Pirs
 
 **HKHK IT24 student**  
-**17 years old**  
+**18 years old**  
 
 I like building useful projects and improving my skills as a developer.
 
