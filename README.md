@@ -58,11 +58,28 @@ Most of my repositories are a mix of:
 * Experiments and prototypes
 * Developer tools
 * School projects
-* Random ideas I wanted to turn into something real
+* Practical applications
 
 > I learn best by building.
 
 **[Explore my repositories](https://github.com/Jasparpirs?tab=repositories)**
+
+---
+
+## Freelance
+
+I'm available for paid development work when needed.
+
+I can help with:
+
+* Websites
+* Small applications
+* Developer tools
+* Automation
+* School or personal projects
+* Custom solutions
+
+If you have an idea or project you'd like help with, feel free to get in touch.
 
 ---
 
@@ -81,6 +98,10 @@ Trying to get a little better with every project.
 ## Contact
 
 **GitHub** → [@Jasparpirs](https://github.com/Jasparpirs)
+
+**Email** → [jasparpirs6@gmail.com](mailto:jasparpirs6@gmail.com)
+
+For project inquiries, feel free to send me an email.
 
 ---
 
